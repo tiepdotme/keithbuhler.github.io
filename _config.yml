@@ -1,8 +1,8 @@
 # Site settings
- url      : https://www.keithbuhler.com
+ url      : https://pedantic-curran-8c0cca.netlify.app
  baseurl  : 
  locale:         "en"
- title:          "keithbuhler.com"
+ title:          "harumu"
  description:    "Thoughts and projects of Dr. Keith Buhler, philosopher, classical educator, and writer."
  comments: 
   provider:       "facebook"
